@@ -1,7 +1,7 @@
 This repository contains code related to the following academic work:
 
 - **Conference Paper:** "IKAN: Interactive KAN with Modulation Fusion for Medical Image Segmentation" (MICCAI 2025)
-- **Journal Extension:** (In preparation)
+- **Journal Extension:** IKAN: Interactive KAN Integrating Multi-Cue Dynamic Guidance for Medical Image Segmentation
 - **Related Patent:** (Application pending)
 
 
